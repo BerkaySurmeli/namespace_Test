@@ -1,0 +1,343 @@
+2021-10-25T21:06:30.273Z @oclif/config reading core plugin /Users/bsurmeli/.local/share/sfdx/client/7.123.0-ebc9b0f
+2021-10-25T21:06:30.275Z @oclif/config loadJSON /Users/bsurmeli/.local/share/sfdx/client/7.123.0-ebc9b0f/package.json
+2021-10-25T21:06:30.278Z @oclif/config loadJSON /Users/bsurmeli/.local/share/sfdx/client/7.123.0-ebc9b0f/oclif.manifest.json
+2021-10-25T21:06:30.278Z @oclif/config:sfdx-cli using manifest from /Users/bsurmeli/.local/share/sfdx/client/7.123.0-ebc9b0f/oclif.manifest.json
+2021-10-25T21:06:30.279Z @oclif/config reading user plugins pjson /Users/bsurmeli/.local/share/sfdx/package.json
+2021-10-25T21:06:30.279Z @oclif/config loadJSON /Users/bsurmeli/.local/share/sfdx/package.json
+2021-10-25T21:06:30.279Z @oclif/config loading plugins [
+  '@oclif/plugin-autocomplete',
+  '@oclif/plugin-commands',
+  '@oclif/plugin-help',
+  '@oclif/plugin-not-found',
+  '@oclif/plugin-plugins',
+  '@oclif/plugin-update',
+  '@oclif/plugin-warn-if-update-available',
+  '@oclif/plugin-which',
+  '@salesforce/plugin-alias',
+  '@salesforce/plugin-apex',
+  '@salesforce/plugin-auth',
+  '@salesforce/plugin-config',
+  '@salesforce/plugin-custom-metadata',
+  '@salesforce/plugin-data',
+  '@salesforce/plugin-generator',
+  '@salesforce/plugin-limits',
+  '@salesforce/plugin-org',
+  '@salesforce/plugin-source',
+  '@salesforce/plugin-schema',
+  '@salesforce/plugin-telemetry',
+  '@salesforce/plugin-templates',
+  '@salesforce/plugin-trust',
+  '@salesforce/plugin-user',
+  '@salesforce/sfdx-plugin-lwc-test',
+  'salesforce-alm'
+]
+2021-10-25T21:06:30.282Z @oclif/config reading core plugin /Users/bsurmeli/.local/share/sfdx/client/7.123.0-ebc9b0f/node_modules/@oclif/plugin-autocomplete
+2021-10-25T21:06:30.282Z @oclif/config loadJSON /Users/bsurmeli/.local/share/sfdx/client/7.123.0-ebc9b0f/node_modules/@oclif/plugin-autocomplete/package.json
+2021-10-25T21:06:30.282Z @oclif/config reading core plugin /Users/bsurmeli/.local/share/sfdx/client/7.123.0-ebc9b0f/node_modules/@oclif/plugin-commands
+2021-10-25T21:06:30.282Z @oclif/config loadJSON /Users/bsurmeli/.local/share/sfdx/client/7.123.0-ebc9b0f/node_modules/@oclif/plugin-commands/package.json
+2021-10-25T21:06:30.282Z @oclif/config reading core plugin /Users/bsurmeli/.local/share/sfdx/client/7.123.0-ebc9b0f/node_modules/@oclif/plugin-help
+2021-10-25T21:06:30.282Z @oclif/config loadJSON /Users/bsurmeli/.local/share/sfdx/client/7.123.0-ebc9b0f/node_modules/@oclif/plugin-help/package.json
+2021-10-25T21:06:30.282Z @oclif/config reading core plugin /Users/bsurmeli/.local/share/sfdx/client/7.123.0-ebc9b0f/node_modules/@oclif/plugin-not-found
+2021-10-25T21:06:30.282Z @oclif/config loadJSON /Users/bsurmeli/.local/share/sfdx/client/7.123.0-ebc9b0f/node_modules/@oclif/plugin-not-found/package.json
+2021-10-25T21:06:30.282Z @oclif/config reading core plugin /Users/bsurmeli/.local/share/sfdx/client/7.123.0-ebc9b0f/node_modules/@oclif/plugin-plugins
+2021-10-25T21:06:30.282Z @oclif/config loadJSON /Users/bsurmeli/.local/share/sfdx/client/7.123.0-ebc9b0f/node_modules/@oclif/plugin-plugins/package.json
+2021-10-25T21:06:30.282Z @oclif/config reading core plugin /Users/bsurmeli/.local/share/sfdx/client/7.123.0-ebc9b0f/node_modules/@oclif/plugin-update
+2021-10-25T21:06:30.282Z @oclif/config loadJSON /Users/bsurmeli/.local/share/sfdx/client/7.123.0-ebc9b0f/node_modules/@oclif/plugin-update/package.json
+2021-10-25T21:06:30.282Z @oclif/config reading core plugin /Users/bsurmeli/.local/share/sfdx/client/7.123.0-ebc9b0f/node_modules/@oclif/plugin-warn-if-update-available
+2021-10-25T21:06:30.282Z @oclif/config loadJSON /Users/bsurmeli/.local/share/sfdx/client/7.123.0-ebc9b0f/node_modules/@oclif/plugin-warn-if-update-available/package.json
+2021-10-25T21:06:30.282Z @oclif/config reading core plugin /Users/bsurmeli/.local/share/sfdx/client/7.123.0-ebc9b0f/node_modules/@oclif/plugin-which
+2021-10-25T21:06:30.282Z @oclif/config loadJSON /Users/bsurmeli/.local/share/sfdx/client/7.123.0-ebc9b0f/node_modules/@oclif/plugin-which/package.json
+2021-10-25T21:06:30.282Z @oclif/config reading core plugin /Users/bsurmeli/.local/share/sfdx/client/7.123.0-ebc9b0f/node_modules/@salesforce/plugin-alias
+2021-10-25T21:06:30.282Z @oclif/config loadJSON /Users/bsurmeli/.local/share/sfdx/client/7.123.0-ebc9b0f/node_modules/@salesforce/plugin-alias/package.json
+2021-10-25T21:06:30.283Z @oclif/config reading core plugin /Users/bsurmeli/.local/share/sfdx/client/7.123.0-ebc9b0f/node_modules/@salesforce/plugin-apex
+2021-10-25T21:06:30.283Z @oclif/config loadJSON /Users/bsurmeli/.local/share/sfdx/client/7.123.0-ebc9b0f/node_modules/@salesforce/plugin-apex/package.json
+2021-10-25T21:06:30.283Z @oclif/config reading core plugin /Users/bsurmeli/.local/share/sfdx/client/7.123.0-ebc9b0f/node_modules/@salesforce/plugin-auth
+2021-10-25T21:06:30.283Z @oclif/config loadJSON /Users/bsurmeli/.local/share/sfdx/client/7.123.0-ebc9b0f/node_modules/@salesforce/plugin-auth/package.json
+2021-10-25T21:06:30.283Z @oclif/config reading core plugin /Users/bsurmeli/.local/share/sfdx/client/7.123.0-ebc9b0f/node_modules/@salesforce/plugin-config
+2021-10-25T21:06:30.283Z @oclif/config loadJSON /Users/bsurmeli/.local/share/sfdx/client/7.123.0-ebc9b0f/node_modules/@salesforce/plugin-config/package.json
+2021-10-25T21:06:30.283Z @oclif/config reading core plugin /Users/bsurmeli/.local/share/sfdx/client/7.123.0-ebc9b0f/node_modules/@salesforce/plugin-custom-metadata
+2021-10-25T21:06:30.283Z @oclif/config loadJSON /Users/bsurmeli/.local/share/sfdx/client/7.123.0-ebc9b0f/node_modules/@salesforce/plugin-custom-metadata/package.json
+2021-10-25T21:06:30.283Z @oclif/config reading core plugin /Users/bsurmeli/.local/share/sfdx/client/7.123.0-ebc9b0f/node_modules/@salesforce/plugin-data
+2021-10-25T21:06:30.283Z @oclif/config loadJSON /Users/bsurmeli/.local/share/sfdx/client/7.123.0-ebc9b0f/node_modules/@salesforce/plugin-data/package.json
+2021-10-25T21:06:30.283Z @oclif/config reading core plugin /Users/bsurmeli/.local/share/sfdx/client/7.123.0-ebc9b0f/node_modules/@salesforce/plugin-generator
+2021-10-25T21:06:30.283Z @oclif/config loadJSON /Users/bsurmeli/.local/share/sfdx/client/7.123.0-ebc9b0f/node_modules/@salesforce/plugin-generator/package.json
+2021-10-25T21:06:30.283Z @oclif/config reading core plugin /Users/bsurmeli/.local/share/sfdx/client/7.123.0-ebc9b0f/node_modules/@salesforce/plugin-limits
+2021-10-25T21:06:30.283Z @oclif/config loadJSON /Users/bsurmeli/.local/share/sfdx/client/7.123.0-ebc9b0f/node_modules/@salesforce/plugin-limits/package.json
+2021-10-25T21:06:30.283Z @oclif/config reading core plugin /Users/bsurmeli/.local/share/sfdx/client/7.123.0-ebc9b0f/node_modules/@salesforce/plugin-org
+2021-10-25T21:06:30.284Z @oclif/config loadJSON /Users/bsurmeli/.local/share/sfdx/client/7.123.0-ebc9b0f/node_modules/@salesforce/plugin-org/package.json
+2021-10-25T21:06:30.284Z @oclif/config reading core plugin /Users/bsurmeli/.local/share/sfdx/client/7.123.0-ebc9b0f/node_modules/@salesforce/plugin-source
+2021-10-25T21:06:30.284Z @oclif/config loadJSON /Users/bsurmeli/.local/share/sfdx/client/7.123.0-ebc9b0f/node_modules/@salesforce/plugin-source/package.json
+2021-10-25T21:06:30.284Z @oclif/config reading core plugin /Users/bsurmeli/.local/share/sfdx/client/7.123.0-ebc9b0f/node_modules/@salesforce/plugin-schema
+2021-10-25T21:06:30.284Z @oclif/config loadJSON /Users/bsurmeli/.local/share/sfdx/client/7.123.0-ebc9b0f/node_modules/@salesforce/plugin-schema/package.json
+2021-10-25T21:06:30.284Z @oclif/config reading core plugin /Users/bsurmeli/.local/share/sfdx/client/7.123.0-ebc9b0f/node_modules/@salesforce/plugin-telemetry
+2021-10-25T21:06:30.284Z @oclif/config loadJSON /Users/bsurmeli/.local/share/sfdx/client/7.123.0-ebc9b0f/node_modules/@salesforce/plugin-telemetry/package.json
+2021-10-25T21:06:30.284Z @oclif/config reading core plugin /Users/bsurmeli/.local/share/sfdx/client/7.123.0-ebc9b0f/node_modules/@salesforce/plugin-templates
+2021-10-25T21:06:30.284Z @oclif/config loadJSON /Users/bsurmeli/.local/share/sfdx/client/7.123.0-ebc9b0f/node_modules/@salesforce/plugin-templates/package.json
+2021-10-25T21:06:30.284Z @oclif/config reading core plugin /Users/bsurmeli/.local/share/sfdx/client/7.123.0-ebc9b0f/node_modules/@salesforce/plugin-trust
+2021-10-25T21:06:30.284Z @oclif/config loadJSON /Users/bsurmeli/.local/share/sfdx/client/7.123.0-ebc9b0f/node_modules/@salesforce/plugin-trust/package.json
+2021-10-25T21:06:30.284Z @oclif/config reading core plugin /Users/bsurmeli/.local/share/sfdx/client/7.123.0-ebc9b0f/node_modules/@salesforce/plugin-user
+2021-10-25T21:06:30.284Z @oclif/config loadJSON /Users/bsurmeli/.local/share/sfdx/client/7.123.0-ebc9b0f/node_modules/@salesforce/plugin-user/package.json
+2021-10-25T21:06:30.284Z @oclif/config reading core plugin /Users/bsurmeli/.local/share/sfdx/client/7.123.0-ebc9b0f/node_modules/@salesforce/sfdx-plugin-lwc-test
+2021-10-25T21:06:30.284Z @oclif/config loadJSON /Users/bsurmeli/.local/share/sfdx/client/7.123.0-ebc9b0f/node_modules/@salesforce/sfdx-plugin-lwc-test/package.json
+2021-10-25T21:06:30.284Z @oclif/config reading core plugin /Users/bsurmeli/.local/share/sfdx/client/7.123.0-ebc9b0f/node_modules/salesforce-alm
+2021-10-25T21:06:30.284Z @oclif/config loadJSON /Users/bsurmeli/.local/share/sfdx/client/7.123.0-ebc9b0f/node_modules/salesforce-alm/package.json
+2021-10-25T21:06:30.285Z @oclif/config loadJSON /Users/bsurmeli/.local/share/sfdx/client/7.123.0-ebc9b0f/node_modules/@oclif/plugin-autocomplete/oclif.manifest.json
+2021-10-25T21:06:30.285Z @oclif/config loadJSON /Users/bsurmeli/.local/share/sfdx/client/7.123.0-ebc9b0f/node_modules/@oclif/plugin-not-found/oclif.manifest.json
+2021-10-25T21:06:30.286Z @oclif/config loadJSON /Users/bsurmeli/.local/share/sfdx/client/7.123.0-ebc9b0f/node_modules/@oclif/plugin-commands/oclif.manifest.json
+2021-10-25T21:06:30.286Z @oclif/config loadJSON /Users/bsurmeli/.local/share/sfdx/client/7.123.0-ebc9b0f/node_modules/@oclif/plugin-help/oclif.manifest.json
+2021-10-25T21:06:30.286Z @oclif/config loadJSON /Users/bsurmeli/.local/share/sfdx/client/7.123.0-ebc9b0f/node_modules/@oclif/plugin-update/oclif.manifest.json
+2021-10-25T21:06:30.287Z @oclif/config loadJSON /Users/bsurmeli/.local/share/sfdx/client/7.123.0-ebc9b0f/node_modules/@oclif/plugin-plugins/oclif.manifest.json
+2021-10-25T21:06:30.287Z @oclif/config loadJSON /Users/bsurmeli/.local/share/sfdx/client/7.123.0-ebc9b0f/node_modules/@oclif/plugin-warn-if-update-available/oclif.manifest.json
+2021-10-25T21:06:30.287Z @oclif/config loadJSON /Users/bsurmeli/.local/share/sfdx/client/7.123.0-ebc9b0f/node_modules/@oclif/plugin-which/oclif.manifest.json
+2021-10-25T21:06:30.288Z @oclif/config loadJSON /Users/bsurmeli/.local/share/sfdx/client/7.123.0-ebc9b0f/node_modules/@salesforce/plugin-alias/oclif.manifest.json
+2021-10-25T21:06:30.288Z @oclif/config loadJSON /Users/bsurmeli/.local/share/sfdx/client/7.123.0-ebc9b0f/node_modules/@salesforce/plugin-apex/oclif.manifest.json
+2021-10-25T21:06:30.289Z @oclif/config loadJSON /Users/bsurmeli/.local/share/sfdx/client/7.123.0-ebc9b0f/node_modules/@salesforce/plugin-auth/oclif.manifest.json
+2021-10-25T21:06:30.289Z @oclif/config loadJSON /Users/bsurmeli/.local/share/sfdx/client/7.123.0-ebc9b0f/node_modules/@salesforce/plugin-config/oclif.manifest.json
+2021-10-25T21:06:30.290Z @oclif/config loadJSON /Users/bsurmeli/.local/share/sfdx/client/7.123.0-ebc9b0f/node_modules/@salesforce/plugin-custom-metadata/oclif.manifest.json
+2021-10-25T21:06:30.291Z @oclif/config loadJSON /Users/bsurmeli/.local/share/sfdx/client/7.123.0-ebc9b0f/node_modules/@salesforce/plugin-data/oclif.manifest.json
+2021-10-25T21:06:30.291Z @oclif/config loadJSON /Users/bsurmeli/.local/share/sfdx/client/7.123.0-ebc9b0f/node_modules/@salesforce/plugin-limits/oclif.manifest.json
+2021-10-25T21:06:30.291Z @oclif/config loadJSON /Users/bsurmeli/.local/share/sfdx/client/7.123.0-ebc9b0f/node_modules/@salesforce/plugin-generator/oclif.manifest.json
+2021-10-25T21:06:30.292Z @oclif/config loadJSON /Users/bsurmeli/.local/share/sfdx/client/7.123.0-ebc9b0f/node_modules/@salesforce/plugin-org/oclif.manifest.json
+2021-10-25T21:06:30.292Z @oclif/config loadJSON /Users/bsurmeli/.local/share/sfdx/client/7.123.0-ebc9b0f/node_modules/@salesforce/plugin-source/oclif.manifest.json
+2021-10-25T21:06:30.293Z @oclif/config loadJSON /Users/bsurmeli/.local/share/sfdx/client/7.123.0-ebc9b0f/node_modules/@salesforce/plugin-telemetry/oclif.manifest.json
+2021-10-25T21:06:30.293Z @oclif/config loadJSON /Users/bsurmeli/.local/share/sfdx/client/7.123.0-ebc9b0f/node_modules/@salesforce/plugin-templates/oclif.manifest.json
+2021-10-25T21:06:30.293Z @oclif/config loadJSON /Users/bsurmeli/.local/share/sfdx/client/7.123.0-ebc9b0f/node_modules/@salesforce/plugin-schema/oclif.manifest.json
+2021-10-25T21:06:30.294Z @oclif/config loadJSON /Users/bsurmeli/.local/share/sfdx/client/7.123.0-ebc9b0f/node_modules/@salesforce/plugin-trust/oclif.manifest.json
+2021-10-25T21:06:30.294Z @oclif/config loadJSON /Users/bsurmeli/.local/share/sfdx/client/7.123.0-ebc9b0f/node_modules/@salesforce/plugin-user/oclif.manifest.json
+2021-10-25T21:06:30.295Z @oclif/config loadJSON /Users/bsurmeli/.local/share/sfdx/client/7.123.0-ebc9b0f/node_modules/@salesforce/sfdx-plugin-lwc-test/oclif.manifest.json
+2021-10-25T21:06:30.296Z @oclif/config loadJSON /Users/bsurmeli/.local/share/sfdx/client/7.123.0-ebc9b0f/node_modules/salesforce-alm/oclif.manifest.json
+2021-10-25T21:06:30.296Z @oclif/config loadJSON /Users/bsurmeli/.local/share/sfdx/client/7.123.0-ebc9b0f/node_modules/@salesforce/plugin-generator/.oclif.manifest.json
+2021-10-25T21:06:30.297Z @oclif/config:@oclif/plugin-autocomplete using manifest from /Users/bsurmeli/.local/share/sfdx/client/7.123.0-ebc9b0f/node_modules/@oclif/plugin-autocomplete/oclif.manifest.json
+2021-10-25T21:06:30.297Z @oclif/config:@oclif/plugin-not-found using manifest from /Users/bsurmeli/.local/share/sfdx/client/7.123.0-ebc9b0f/node_modules/@oclif/plugin-not-found/oclif.manifest.json
+2021-10-25T21:06:30.297Z @oclif/config:@oclif/plugin-help using manifest from /Users/bsurmeli/.local/share/sfdx/client/7.123.0-ebc9b0f/node_modules/@oclif/plugin-help/oclif.manifest.json
+2021-10-25T21:06:30.297Z @oclif/config:@oclif/plugin-commands using manifest from /Users/bsurmeli/.local/share/sfdx/client/7.123.0-ebc9b0f/node_modules/@oclif/plugin-commands/oclif.manifest.json
+2021-10-25T21:06:30.297Z @oclif/config:@oclif/plugin-plugins using manifest from /Users/bsurmeli/.local/share/sfdx/client/7.123.0-ebc9b0f/node_modules/@oclif/plugin-plugins/oclif.manifest.json
+2021-10-25T21:06:30.297Z @oclif/config:@oclif/plugin-warn-if-update-available using manifest from /Users/bsurmeli/.local/share/sfdx/client/7.123.0-ebc9b0f/node_modules/@oclif/plugin-warn-if-update-available/oclif.manifest.json
+2021-10-25T21:06:30.297Z @oclif/config:@oclif/plugin-update using manifest from /Users/bsurmeli/.local/share/sfdx/client/7.123.0-ebc9b0f/node_modules/@oclif/plugin-update/oclif.manifest.json
+2021-10-25T21:06:30.298Z @oclif/config:@oclif/plugin-which using manifest from /Users/bsurmeli/.local/share/sfdx/client/7.123.0-ebc9b0f/node_modules/@oclif/plugin-which/oclif.manifest.json
+2021-10-25T21:06:30.298Z @oclif/config:@salesforce/plugin-alias using manifest from /Users/bsurmeli/.local/share/sfdx/client/7.123.0-ebc9b0f/node_modules/@salesforce/plugin-alias/oclif.manifest.json
+2021-10-25T21:06:30.298Z @oclif/config:@salesforce/plugin-apex using manifest from /Users/bsurmeli/.local/share/sfdx/client/7.123.0-ebc9b0f/node_modules/@salesforce/plugin-apex/oclif.manifest.json
+2021-10-25T21:06:30.298Z @oclif/config:@salesforce/plugin-config using manifest from /Users/bsurmeli/.local/share/sfdx/client/7.123.0-ebc9b0f/node_modules/@salesforce/plugin-config/oclif.manifest.json
+2021-10-25T21:06:30.298Z @oclif/config:@salesforce/plugin-auth using manifest from /Users/bsurmeli/.local/share/sfdx/client/7.123.0-ebc9b0f/node_modules/@salesforce/plugin-auth/oclif.manifest.json
+2021-10-25T21:06:30.298Z @oclif/config:@salesforce/plugin-custom-metadata using manifest from /Users/bsurmeli/.local/share/sfdx/client/7.123.0-ebc9b0f/node_modules/@salesforce/plugin-custom-metadata/oclif.manifest.json
+2021-10-25T21:06:30.298Z @oclif/config:@salesforce/plugin-limits using manifest from /Users/bsurmeli/.local/share/sfdx/client/7.123.0-ebc9b0f/node_modules/@salesforce/plugin-limits/oclif.manifest.json
+2021-10-25T21:06:30.299Z @oclif/config:@salesforce/plugin-data using manifest from /Users/bsurmeli/.local/share/sfdx/client/7.123.0-ebc9b0f/node_modules/@salesforce/plugin-data/oclif.manifest.json
+2021-10-25T21:06:30.299Z @oclif/config:@salesforce/plugin-telemetry using manifest from /Users/bsurmeli/.local/share/sfdx/client/7.123.0-ebc9b0f/node_modules/@salesforce/plugin-telemetry/oclif.manifest.json
+2021-10-25T21:06:30.299Z @oclif/config:@salesforce/plugin-source using manifest from /Users/bsurmeli/.local/share/sfdx/client/7.123.0-ebc9b0f/node_modules/@salesforce/plugin-source/oclif.manifest.json
+2021-10-25T21:06:30.299Z @oclif/config:@salesforce/plugin-org using manifest from /Users/bsurmeli/.local/share/sfdx/client/7.123.0-ebc9b0f/node_modules/@salesforce/plugin-org/oclif.manifest.json
+2021-10-25T21:06:30.299Z @oclif/config:@salesforce/plugin-schema using manifest from /Users/bsurmeli/.local/share/sfdx/client/7.123.0-ebc9b0f/node_modules/@salesforce/plugin-schema/oclif.manifest.json
+2021-10-25T21:06:30.299Z @oclif/config:@salesforce/plugin-templates using manifest from /Users/bsurmeli/.local/share/sfdx/client/7.123.0-ebc9b0f/node_modules/@salesforce/plugin-templates/oclif.manifest.json
+2021-10-25T21:06:30.299Z @oclif/config:@salesforce/plugin-trust using manifest from /Users/bsurmeli/.local/share/sfdx/client/7.123.0-ebc9b0f/node_modules/@salesforce/plugin-trust/oclif.manifest.json
+2021-10-25T21:06:30.300Z @oclif/config:@salesforce/plugin-user using manifest from /Users/bsurmeli/.local/share/sfdx/client/7.123.0-ebc9b0f/node_modules/@salesforce/plugin-user/oclif.manifest.json
+2021-10-25T21:06:30.300Z @oclif/config:@salesforce/sfdx-plugin-lwc-test using manifest from /Users/bsurmeli/.local/share/sfdx/client/7.123.0-ebc9b0f/node_modules/@salesforce/sfdx-plugin-lwc-test/oclif.manifest.json
+2021-10-25T21:06:30.301Z @oclif/config:salesforce-alm using manifest from /Users/bsurmeli/.local/share/sfdx/client/7.123.0-ebc9b0f/node_modules/salesforce-alm/oclif.manifest.json
+2021-10-25T21:06:30.301Z @oclif/config:@salesforce/plugin-generator using manifest from /Users/bsurmeli/.local/share/sfdx/client/7.123.0-ebc9b0f/node_modules/@salesforce/plugin-generator/.oclif.manifest.json
+2021-10-25T21:06:30.301Z @oclif/config loading plugins [
+  '@oclif/plugin-help',
+  '@oclif/plugin-warn-if-update-available',
+  '@oclif/plugin-not-found'
+]
+2021-10-25T21:06:30.301Z @oclif/config loadJSON /Users/bsurmeli/.local/share/sfdx/client/7.123.0-ebc9b0f/node_modules/@salesforce/plugin-generator/package.json
+2021-10-25T21:06:30.301Z @oclif/config loadJSON /Users/bsurmeli/.local/share/sfdx/client/7.123.0-ebc9b0f/node_modules/@salesforce/plugin-generator/package.json
+2021-10-25T21:06:30.301Z @oclif/config loadJSON /Users/bsurmeli/.local/share/sfdx/client/7.123.0-ebc9b0f/node_modules/@salesforce/plugin-generator/package.json
+2021-10-25T21:06:30.302Z @oclif/config loadJSON /Users/bsurmeli/.local/share/sfdx/client/7.123.0-ebc9b0f/node_modules/@salesforce/package.json
+2021-10-25T21:06:30.302Z @oclif/config loadJSON /Users/bsurmeli/.local/share/sfdx/client/7.123.0-ebc9b0f/node_modules/@salesforce/package.json
+2021-10-25T21:06:30.302Z @oclif/config loadJSON /Users/bsurmeli/.local/share/sfdx/client/7.123.0-ebc9b0f/node_modules/@salesforce/package.json
+2021-10-25T21:06:30.302Z @oclif/config loadJSON /Users/bsurmeli/.local/share/sfdx/client/7.123.0-ebc9b0f/node_modules/package.json
+2021-10-25T21:06:30.302Z @oclif/config loadJSON /Users/bsurmeli/.local/share/sfdx/client/7.123.0-ebc9b0f/node_modules/package.json
+2021-10-25T21:06:30.303Z @oclif/config loadJSON /Users/bsurmeli/.local/share/sfdx/client/7.123.0-ebc9b0f/node_modules/package.json
+2021-10-25T21:06:30.303Z @oclif/config reading core plugin /Users/bsurmeli/.local/share/sfdx/client/7.123.0-ebc9b0f/node_modules/@oclif/plugin-help
+2021-10-25T21:06:30.303Z @oclif/config loadJSON /Users/bsurmeli/.local/share/sfdx/client/7.123.0-ebc9b0f/node_modules/@oclif/plugin-help/package.json
+2021-10-25T21:06:30.303Z @oclif/config reading core plugin /Users/bsurmeli/.local/share/sfdx/client/7.123.0-ebc9b0f/node_modules/@oclif/plugin-warn-if-update-available
+2021-10-25T21:06:30.303Z @oclif/config loadJSON /Users/bsurmeli/.local/share/sfdx/client/7.123.0-ebc9b0f/node_modules/@oclif/plugin-warn-if-update-available/package.json
+2021-10-25T21:06:30.303Z @oclif/config reading core plugin /Users/bsurmeli/.local/share/sfdx/client/7.123.0-ebc9b0f/node_modules/@oclif/plugin-not-found
+2021-10-25T21:06:30.303Z @oclif/config loadJSON /Users/bsurmeli/.local/share/sfdx/client/7.123.0-ebc9b0f/node_modules/@oclif/plugin-not-found/package.json
+2021-10-25T21:06:30.303Z @oclif/config loadJSON /Users/bsurmeli/.local/share/sfdx/client/7.123.0-ebc9b0f/node_modules/@oclif/plugin-help/oclif.manifest.json
+2021-10-25T21:06:30.303Z @oclif/config loadJSON /Users/bsurmeli/.local/share/sfdx/client/7.123.0-ebc9b0f/node_modules/@oclif/plugin-warn-if-update-available/oclif.manifest.json
+2021-10-25T21:06:30.303Z @oclif/config loadJSON /Users/bsurmeli/.local/share/sfdx/client/7.123.0-ebc9b0f/node_modules/@oclif/plugin-not-found/oclif.manifest.json
+2021-10-25T21:06:30.304Z @oclif/config:@oclif/plugin-help using manifest from /Users/bsurmeli/.local/share/sfdx/client/7.123.0-ebc9b0f/node_modules/@oclif/plugin-help/oclif.manifest.json
+2021-10-25T21:06:30.304Z @oclif/config:@oclif/plugin-warn-if-update-available using manifest from /Users/bsurmeli/.local/share/sfdx/client/7.123.0-ebc9b0f/node_modules/@oclif/plugin-warn-if-update-available/oclif.manifest.json
+2021-10-25T21:06:30.304Z @oclif/config:@oclif/plugin-not-found using manifest from /Users/bsurmeli/.local/share/sfdx/client/7.123.0-ebc9b0f/node_modules/@oclif/plugin-not-found/oclif.manifest.json
+2021-10-25T21:06:30.304Z @oclif/config config done
+2021-10-25T21:06:30.304Z sfdx                        OS:
+2021-10-25T21:06:30.304Z sfdx                  platform: darwin
+2021-10-25T21:06:30.304Z sfdx              architecture: x64
+2021-10-25T21:06:30.304Z sfdx                   release: 20.6.0
+2021-10-25T21:06:30.304Z sfdx                     shell: zsh
+2021-10-25T21:06:30.304Z sfdx                      NODE:
+2021-10-25T21:06:30.304Z sfdx                   version: 14.18.1
+2021-10-25T21:06:30.305Z sfdx                       CLI:
+2021-10-25T21:06:30.305Z sfdx                   version: 7.123.0
+2021-10-25T21:06:30.305Z sfdx                   channel: stable
+2021-10-25T21:06:30.305Z sfdx                       bin: sfdx
+2021-10-25T21:06:30.305Z sfdx                      data: /Users/bsurmeli/.local/share/sfdx
+2021-10-25T21:06:30.305Z sfdx                     cache: /Users/bsurmeli/Library/Caches/sfdx
+2021-10-25T21:06:30.305Z sfdx                    config: /Users/bsurmeli/.config/sfdx
+2021-10-25T21:06:30.305Z sfdx                       ENV:
+2021-10-25T21:06:30.305Z sfdx              NODE_OPTIONS: <not set>
+2021-10-25T21:06:30.305Z sfdx   SFDX_AUTOUPDATE_DISABLE: true
+2021-10-25T21:06:30.305Z sfdx              SFDX_BINPATH: /Users/bsurmeli/.local/share/sfdx/client/bin/sfdx
+2021-10-25T21:06:30.305Z sfdx        SFDX_COMPILE_CACHE: <not set>
+2021-10-25T21:06:30.305Z sfdx   SFDX_DISABLE_AUTOUPDATE: true
+2021-10-25T21:06:30.305Z sfdx                  SFDX_ENV: development
+2021-10-25T21:06:30.305Z sfdx            SFDX_INSTALLER: <not set>
+2021-10-25T21:06:30.305Z sfdx    SFDX_LAZY_LOAD_MODULES: true
+2021-10-25T21:06:30.305Z sfdx         SFDX_NPM_REGISTRY: <not set>
+2021-10-25T21:06:30.305Z sfdx           SFDX_REDIRECTED: 1
+2021-10-25T21:06:30.305Z sfdx              SFDX_S3_HOST: <not set>
+2021-10-25T21:06:30.305Z sfdx  SFDX_UPDATE_INSTRUCTIONS: Use "npm update --global sfdx-cli" to update npm-based installations.
+2021-10-25T21:06:30.305Z sfdx                      ARGS:
+2021-10-25T21:06:30.305Z sfdx                         0: /Users/bsurmeli/.local/share/sfdx/client/7.123.0-ebc9b0f/bin/node
+2021-10-25T21:06:30.305Z sfdx                         1: /Users/bsurmeli/.local/share/sfdx/client/7.123.0-ebc9b0f/bin/run
+2021-10-25T21:06:30.305Z sfdx                         2: force:source:convert
+2021-10-25T21:06:30.305Z sfdx                         3: -r
+2021-10-25T21:06:30.305Z sfdx                         4: force-app
+2021-10-25T21:06:30.305Z sfdx                         5: -n
+2021-10-25T21:06:30.305Z sfdx                         6: namespacepack
+2021-10-25T21:06:30.306Z lazy-require loading type cache from /Users/bsurmeli/Library/Caches/sfdx/module-types.json
+2021-10-25T21:06:30.306Z lazy-require loaded type cache
+2021-10-25T21:06:30.306Z lazy-require parsing type cache
+2021-10-25T21:06:30.306Z lazy-require parsed type cache
+2021-10-25T21:06:30.307Z lazy-require enabled
+2021-10-25T21:06:30.308Z @oclif/config start init hook
+2021-10-25T21:06:30.309Z sfdx:@oclif/plugin-warn-if-update-available:hooks:init start /Users/bsurmeli/.local/share/sfdx/client/7.123.0-ebc9b0f/node_modules/@oclif/plugin-warn-if-update-available/lib/hooks/init/check-update
+2021-10-25T21:06:30.327Z sfdx:@oclif/plugin-update:hooks:init start /Users/bsurmeli/.local/share/sfdx/client/7.123.0-ebc9b0f/node_modules/@oclif/plugin-update/lib/hooks/init
+2021-10-25T21:06:30.329Z sfdx:@salesforce/plugin-config:hooks:init start /Users/bsurmeli/.local/share/sfdx/client/7.123.0-ebc9b0f/node_modules/@salesforce/plugin-config/lib/hooks/init/load_config_meta
+2021-10-25T21:06:30.400Z sfdx:core TRACE Setup child 'core:config' logger instance
+2021-10-25T21:06:30.409Z sfdx:core TRACE Setup child 'plugin-config:load_config_meta' logger instance
+2021-10-25T21:06:30.409Z sfdx:plugin-config:load_config_meta INFO No config meta found for sfdx-cli
+2021-10-25T21:06:30.409Z sfdx:plugin-config:load_config_meta INFO No config meta found for @oclif/plugin-autocomplete
+2021-10-25T21:06:30.410Z sfdx:plugin-config:load_config_meta INFO No config meta found for @oclif/plugin-not-found
+2021-10-25T21:06:30.410Z sfdx:plugin-config:load_config_meta INFO No config meta found for @oclif/plugin-help
+2021-10-25T21:06:30.410Z sfdx:plugin-config:load_config_meta INFO No config meta found for @oclif/plugin-commands
+2021-10-25T21:06:30.410Z sfdx:plugin-config:load_config_meta INFO No config meta found for @oclif/plugin-plugins
+2021-10-25T21:06:30.410Z sfdx:plugin-config:load_config_meta INFO No config meta found for @oclif/plugin-warn-if-update-available
+2021-10-25T21:06:30.410Z sfdx:plugin-config:load_config_meta INFO No config meta found for @oclif/plugin-update
+2021-10-25T21:06:30.410Z sfdx:plugin-config:load_config_meta INFO No config meta found for @oclif/plugin-which
+2021-10-25T21:06:30.410Z sfdx:plugin-config:load_config_meta INFO No config meta found for @salesforce/plugin-alias
+2021-10-25T21:06:30.410Z sfdx:plugin-config:load_config_meta INFO No config meta found for @salesforce/plugin-apex
+2021-10-25T21:06:30.410Z sfdx:plugin-config:load_config_meta INFO No config meta found for @salesforce/plugin-config
+2021-10-25T21:06:30.410Z sfdx:plugin-config:load_config_meta INFO No config meta found for @salesforce/plugin-auth
+2021-10-25T21:06:30.411Z sfdx:plugin-config:load_config_meta INFO No config meta found for @salesforce/plugin-custom-metadata
+2021-10-25T21:06:30.411Z sfdx:plugin-config:load_config_meta INFO No config meta found for @salesforce/plugin-limits
+2021-10-25T21:06:30.411Z sfdx:plugin-config:load_config_meta INFO No config meta found for @salesforce/plugin-data
+2021-10-25T21:06:30.411Z sfdx:plugin-config:load_config_meta INFO No config meta found for @salesforce/plugin-telemetry
+2021-10-25T21:06:30.411Z sfdx:plugin-config:load_config_meta INFO No config meta found for @salesforce/plugin-source
+2021-10-25T21:06:30.411Z sfdx:plugin-config:load_config_meta INFO No config meta found for @salesforce/plugin-org
+2021-10-25T21:06:30.411Z sfdx:plugin-config:load_config_meta INFO No config meta found for @salesforce/plugin-schema
+2021-10-25T21:06:30.411Z sfdx:plugin-config:load_config_meta INFO No config meta found for @salesforce/plugin-templates
+2021-10-25T21:06:30.411Z sfdx:plugin-config:load_config_meta INFO No config meta found for @salesforce/plugin-trust
+2021-10-25T21:06:30.411Z sfdx:plugin-config:load_config_meta INFO No config meta found for @salesforce/plugin-user
+2021-10-25T21:06:30.411Z sfdx:plugin-config:load_config_meta INFO No config meta found for @salesforce/sfdx-plugin-lwc-test
+2021-10-25T21:06:30.411Z sfdx:plugin-config:load_config_meta INFO No config meta found for salesforce-alm
+2021-10-25T21:06:30.412Z sfdx:plugin-config:load_config_meta INFO No config meta found for @salesforce/plugin-generator
+2021-10-25T21:06:30.412Z sfdx:@salesforce/plugin-telemetry:hooks:init start /Users/bsurmeli/.local/share/sfdx/client/7.123.0-ebc9b0f/node_modules/@salesforce/plugin-telemetry/lib/hooks/telemetryInit.js
+2021-10-25T21:06:30.413Z sfdx:@oclif/plugin-update:hooks:init done
+2021-10-25T21:06:30.413Z sfdx:@salesforce/plugin-config:hooks:init done
+2021-10-25T21:06:30.413Z sfdx:@salesforce/plugin-telemetry:hooks:init done
+ ›   Warning: sfdx-cli update available from 7.123.0 to 7.123.1.
+2021-10-25T21:06:30.420Z sfdx:@oclif/plugin-warn-if-update-available:hooks:init done
+2021-10-25T21:06:30.420Z @oclif/config init hook done
+2021-10-25T21:06:30.420Z sfdx init version: @oclif/command@1.8.0 argv: [ 'force:source:convert', '-r', 'force-app', '-n', 'namespacepack' ]
+2021-10-25T21:06:30.422Z @oclif/config runCommand force:source:convert [ '-r', 'force-app', '-n', 'namespacepack' ]
+2021-10-25T21:06:30.423Z @oclif/config:@salesforce/plugin-source require /Users/bsurmeli/.local/share/sfdx/client/7.123.0-ebc9b0f/node_modules/@salesforce/plugin-source/lib/commands/force/source/convert.js
+2021-10-25T21:06:30.442Z sfdx:core TRACE Setup child 'core:config' logger instance
+2021-10-25T21:06:30.471Z sfdx:core TRACE Setup child 'core:config' logger instance
+2021-10-25T21:06:30.518Z sfdx:core TRACE Setup child 'core:config' logger instance
+2021-10-25T21:06:30.544Z @oclif/config start prerun hook
+2021-10-25T21:06:30.544Z sfdx:@salesforce/plugin-telemetry:hooks:prerun start /Users/bsurmeli/.local/share/sfdx/client/7.123.0-ebc9b0f/node_modules/@salesforce/plugin-telemetry/lib/hooks/telemetryPrerun.js
+2021-10-25T21:06:30.549Z sfdx:core TRACE Setup child 'Config' logger instance
+2021-10-25T21:06:30.549Z sfdx:core TRACE Setup child 'Config' logger instance
+2021-10-25T21:06:30.550Z sfdx:Config INFO Reading config file: /Users/bsurmeli/.sfdx/sfdx-config.json
+2021-10-25T21:06:30.551Z sfdx:Config INFO Reading config file: /Users/bsurmeli/Desktop/SFDX Projects/namespace_Test/.sfdx/sfdx-config.json
+2021-10-25T21:06:30.553Z sfdx:telemetry@1.2.8 Usage acknowledgement file already exists
+2021-10-25T21:06:30.553Z sfdx:telemetry@1.2.8 Using telemetry logging file /var/folders/md/2c1mmx412tjdrs7myvl35ycw0000gp/T/sfdx-telemetry/telemetry-85d3425cf1156aaf424dab41cae584cfc36b7b5a.log
+2021-10-25T21:06:30.555Z sfdx:telemetry@1.2.8 Setting up process exit handler
+2021-10-25T21:06:30.555Z sfdx:@salesforce/plugin-telemetry:hooks:prerun done
+2021-10-25T21:06:30.555Z @oclif/config prerun hook done
+2021-10-25T21:06:30.556Z sfdx:core TRACE Setup child 'Convert' logger instance
+2021-10-25T21:06:30.572Z sfdx:force:source:convert init version: @oclif/command@1.8.0 argv: [ '-r', 'force-app', '-n', 'namespacepack' ]
+2021-10-25T21:06:30.573Z sfdx:Convert INFO Running command [Convert] with flags [{"rootdir":"force-app","packagename":"namespacepack","loglevel":"warn","outputdir":"metadataPackage_1635195990544"}] and args [{}]
+2021-10-25T21:06:30.573Z sfdx:core TRACE Setup child 'Config' logger instance
+2021-10-25T21:06:30.574Z sfdx:core TRACE Setup child 'Config' logger instance
+2021-10-25T21:06:30.574Z sfdx:Config INFO Reading config file: /Users/bsurmeli/.sfdx/sfdx-config.json
+2021-10-25T21:06:30.576Z sfdx:Config INFO Reading config file: /Users/bsurmeli/Desktop/SFDX Projects/namespace_Test/.sfdx/sfdx-config.json
+2021-10-25T21:06:30.579Z sfdx:core TRACE Setup child 'SfdxProjectJson' logger instance
+2021-10-25T21:06:30.579Z sfdx:SfdxProjectJson INFO Reading config file: /Users/bsurmeli/.sfdx/sfdx-project.json
+2021-10-25T21:06:30.580Z sfdx:core TRACE Setup child 'SfdxProjectJson' logger instance
+2021-10-25T21:06:30.580Z sfdx:SfdxProjectJson INFO Reading config file: /Users/bsurmeli/Desktop/SFDX Projects/namespace_Test/sfdx-project.json
+2021-10-25T21:06:30.580Z sfdx:SfdxProjectJson TRACE Setup child 'SchemaValidator' logger instance
+2021-10-25T21:06:30.581Z sfdx:SfdxProjectJson TRACE Setup child 'SchemaValidator' logger instance
+2021-10-25T21:06:30.581Z sfdx:SchemaValidator DEBUG Schema loaded for /Users/bsurmeli/.local/share/sfdx/client/7.123.0-ebc9b0f/node_modules/@salesforce/schemas/sfdx-project.schema.json
+2021-10-25T21:06:30.589Z sfdx:SfdxProjectJson WARN The config file: /Users/bsurmeli/.sfdx/sfdx-project.json is not schema valid
+Due to: Validation errors:
+should have required property 'packageDirectories'
+2021-10-25T21:06:30.590Z sfdx:SchemaValidator DEBUG Schema loaded for /Users/bsurmeli/.local/share/sfdx/client/7.123.0-ebc9b0f/node_modules/@salesforce/schemas/sfdx-project.schema.json
+2021-10-25T21:06:30.592Z sfdx:SfdxProjectJson INFO Reading config file: /Users/bsurmeli/.sfdx/sfdx-project.json
+2021-10-25T21:06:30.592Z sfdx:SfdxProjectJson INFO Reading config file: /Users/bsurmeli/Desktop/SFDX Projects/namespace_Test/sfdx-project.json
+2021-10-25T21:06:30.593Z sfdx:SfdxProjectJson TRACE Setup child 'SchemaValidator' logger instance
+2021-10-25T21:06:30.593Z sfdx:SfdxProjectJson TRACE Setup child 'SchemaValidator' logger instance
+2021-10-25T21:06:30.594Z sfdx:SchemaValidator DEBUG Schema loaded for /Users/bsurmeli/.local/share/sfdx/client/7.123.0-ebc9b0f/node_modules/@salesforce/schemas/sfdx-project.schema.json
+2021-10-25T21:06:30.595Z sfdx:SfdxProjectJson WARN The config file: /Users/bsurmeli/.sfdx/sfdx-project.json is not schema valid
+Due to: Validation errors:
+should have required property 'packageDirectories'
+2021-10-25T21:06:30.595Z sfdx:SchemaValidator DEBUG Schema loaded for /Users/bsurmeli/.local/share/sfdx/client/7.123.0-ebc9b0f/node_modules/@salesforce/schemas/sfdx-project.schema.json
+2021-10-25T21:06:30.597Z sfdx:core TRACE Setup child 'createComponentSet' logger instance
+2021-10-25T21:06:30.597Z sfdx:createComponentSet DEBUG Building ComponentSet from sourcepath: force-app
+2021-10-25T21:06:30.598Z sfdx:core TRACE Setup child 'ComponentSet' logger instance
+ERROR running force:source:convert:  ENOENT: no such file or directory, scandir 
+*** Internal Diagnostic ***
+
+Error: ENOENT: no such file or directory, scandir
+    at Proxy.readdirSync (fs.js:1047:3)
+    at NodeFSTreeContainer.readDirectory (/Users/bsurmeli/.local/share/sfdx/client/7.123.0-ebc9b0f/node_modules/@salesforce/source-deploy-retrieve/lib/src/resolve/treeContainers.js:62:30)
+    at NodeFSTreeContainer.find (/Users/bsurmeli/.local/share/sfdx/client/7.123.0-ebc9b0f/node_modules/@salesforce/source-deploy-retrieve/lib/src/resolve/treeContainers.js:40:31)
+    at DecomposedSourceAdapter.getRootMetadataXmlPath (/Users/bsurmeli/.local/share/sfdx/client/7.123.0-ebc9b0f/node_modules/@salesforce/source-deploy-retrieve/lib/src/resolve/adapters/mixedContentSourceAdapter.js:43:30)
+    at DecomposedSourceAdapter.getComponent (/Users/bsurmeli/.local/share/sfdx/client/7.123.0-ebc9b0f/node_modules/@salesforce/source-deploy-retrieve/lib/src/resolve/adapters/decomposedSourceAdapter.js:51:43)
+    at MetadataResolver.resolveComponent (/Users/bsurmeli/.local/share/sfdx/client/7.123.0-ebc9b0f/node_modules/@salesforce/source-deploy-retrieve/lib/src/resolve/metadataResolver.js:117:44)
+    at MetadataResolver.getComponentsFromPathRecursive (/Users/bsurmeli/.local/share/sfdx/client/7.123.0-ebc9b0f/node_modules/@salesforce/source-deploy-retrieve/lib/src/resolve/metadataResolver.js:74:40)
+    at MetadataResolver.getComponentsFromPathRecursive (/Users/bsurmeli/.local/share/sfdx/client/7.123.0-ebc9b0f/node_modules/@salesforce/source-deploy-retrieve/lib/src/resolve/metadataResolver.js:97:37)
+    at MetadataResolver.getComponentsFromPathRecursive (/Users/bsurmeli/.local/share/sfdx/client/7.123.0-ebc9b0f/node_modules/@salesforce/source-deploy-retrieve/lib/src/resolve/metadataResolver.js:97:37)
+    at MetadataResolver.getComponentsFromPathRecursive (/Users/bsurmeli/.local/share/sfdx/client/7.123.0-ebc9b0f/node_modules/@salesforce/source-deploy-retrieve/lib/src/resolve/metadataResolver.js:97:37)
+Outer stack:
+    at Function.wrap (/Users/bsurmeli/.local/share/sfdx/client/7.123.0-ebc9b0f/node_modules/@salesforce/command/node_modules/@salesforce/core/lib/sfdxError.js:171:27)
+    at Convert.catch (/Users/bsurmeli/.local/share/sfdx/client/7.123.0-ebc9b0f/node_modules/@salesforce/command/lib/sfdxCommand.js:248:67)
+    at async Convert._run (/Users/bsurmeli/.local/share/sfdx/client/7.123.0-ebc9b0f/node_modules/@salesforce/command/lib/sfdxCommand.js:85:13)
+    at async Config.runCommand (/Users/bsurmeli/.local/share/sfdx/client/7.123.0-ebc9b0f/node_modules/@oclif/config/lib/config.js:173:24)
+    at async SfdxMain.run (/Users/bsurmeli/.local/share/sfdx/client/7.123.0-ebc9b0f/node_modules/@oclif/command/lib/main.js:27:9)
+    at async SfdxMain._run (/Users/bsurmeli/.local/share/sfdx/client/7.123.0-ebc9b0f/node_modules/@oclif/command/lib/command.js:43:20)
+    at async Object.run (/Users/bsurmeli/.local/share/sfdx/client/7.123.0-ebc9b0f/dist/cli.js:162:47)
+******
+
+2021-10-25T21:06:30.607Z sfdx:Convert ERROR [
+  'ERROR running force:source:convert: ',
+  'ENOENT: no such file or directory, scandir',
+  '\n' +
+    '*** Internal Diagnostic ***\n' +
+    '\n' +
+    'Error: ENOENT: no such file or directory, scandir\n' +
+    '    at Proxy.readdirSync (fs.js:1047:3)\n' +
+    '    at NodeFSTreeContainer.readDirectory (/Users/bsurmeli/.local/share/sfdx/client/7.123.0-ebc9b0f/node_modules/@salesforce/source-deploy-retrieve/lib/src/resolve/treeContainers.js:62:30)\n' +
+    '    at NodeFSTreeContainer.find (/Users/bsurmeli/.local/share/sfdx/client/7.123.0-ebc9b0f/node_modules/@salesforce/source-deploy-retrieve/lib/src/resolve/treeContainers.js:40:31)\n' +
+    '    at DecomposedSourceAdapter.getRootMetadataXmlPath (/Users/bsurmeli/.local/share/sfdx/client/7.123.0-ebc9b0f/node_modules/@salesforce/source-deploy-retrieve/lib/src/resolve/adapters/mixedContentSourceAdapter.js:43:30)\n' +
+    '    at DecomposedSourceAdapter.getComponent (/Users/bsurmeli/.local/share/sfdx/client/7.123.0-ebc9b0f/node_modules/@salesforce/source-deploy-retrieve/lib/src/resolve/adapters/decomposedSourceAdapter.js:51:43)\n' +
+    '    at MetadataResolver.resolveComponent (/Users/bsurmeli/.local/share/sfdx/client/7.123.0-ebc9b0f/node_modules/@salesforce/source-deploy-retrieve/lib/src/resolve/metadataResolver.js:117:44)\n' +
+    '    at MetadataResolver.getComponentsFromPathRecursive (/Users/bsurmeli/.local/share/sfdx/client/7.123.0-ebc9b0f/node_modules/@salesforce/source-deploy-retrieve/lib/src/resolve/metadataResolver.js:74:40)\n' +
+    '    at MetadataResolver.getComponentsFromPathRecursive (/Users/bsurmeli/.local/share/sfdx/client/7.123.0-ebc9b0f/node_modules/@salesforce/source-deploy-retrieve/lib/src/resolve/metadataResolver.js:97:37)\n' +
+    '    at MetadataResolver.getComponentsFromPathRecursive (/Users/bsurmeli/.local/share/sfdx/client/7.123.0-ebc9b0f/node_modules/@salesforce/source-deploy-retrieve/lib/src/resolve/metadataResolver.js:97:37)\n' +
+    '    at MetadataResolver.getComponentsFromPathRecursive (/Users/bsurmeli/.local/share/sfdx/client/7.123.0-ebc9b0f/node_modules/@salesforce/source-deploy-retrieve/lib/src/resolve/metadataResolver.js:97:37)\n' +
+    'Outer stack:\n' +
+    '    at Function.wrap (/Users/bsurmeli/.local/share/sfdx/client/7.123.0-ebc9b0f/node_modules/@salesforce/command/node_modules/@salesforce/core/lib/sfdxError.js:171:27)\n' +
+    '    at Convert.catch (/Users/bsurmeli/.local/share/sfdx/client/7.123.0-ebc9b0f/node_modules/@salesforce/command/lib/sfdxCommand.js:248:67)\n' +
+    '    at async Convert._run (/Users/bsurmeli/.local/share/sfdx/client/7.123.0-ebc9b0f/node_modules/@salesforce/command/lib/sfdxCommand.js:85:13)\n' +
+    '    at async Config.runCommand (/Users/bsurmeli/.local/share/sfdx/client/7.123.0-ebc9b0f/node_modules/@oclif/config/lib/config.js:173:24)\n' +
+    '    at async SfdxMain.run (/Users/bsurmeli/.local/share/sfdx/client/7.123.0-ebc9b0f/node_modules/@oclif/command/lib/main.js:27:9)\n' +
+    '    at async SfdxMain._run (/Users/bsurmeli/.local/share/sfdx/client/7.123.0-ebc9b0f/node_modules/@oclif/command/lib/command.js:43:20)\n' +
+    '    at async Object.run (/Users/bsurmeli/.local/share/sfdx/client/7.123.0-ebc9b0f/dist/cli.js:162:47)\n' +
+    '******\n'
+]
+2021-10-25T21:06:30.609Z @oclif/config start postrun hook
+2021-10-25T21:06:30.609Z @oclif/config postrun hook done
+2021-10-25T21:06:30.646Z lazy-require saving type cache to /Users/bsurmeli/Library/Caches/sfdx/module-types.json
+2021-10-25T21:06:30.646Z lazy-require no changes to save
+2021-10-25T21:06:30.646Z sfdx:telemetry@1.2.8 Spawning "/Users/bsurmeli/.local/share/sfdx/client/7.123.0-ebc9b0f/bin/node /Users/bsurmeli/.local/share/sfdx/client/7.123.0-ebc9b0f/node_modules/@salesforce/plugin-telemetry/processes/upload /Users/bsurmeli/Library/Caches/sfdx /var/folders/md/2c1mmx412tjdrs7myvl35ycw0000gp/T/sfdx-telemetry/telemetry-85d3425cf1156aaf424dab41cae584cfc36b7b5a.log"
